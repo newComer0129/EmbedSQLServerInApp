@@ -1,2 +1,2 @@
 # EmbedSQLServerInApp
-This file will show embed SQL Server Express in C#'s winform project
+This file will show how to embed SQL Server Express in C#'s winform project step by step.
